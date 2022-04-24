@@ -97,3 +97,4 @@ server {
     }
 }
 ```
+### Source: https://b0uh.github.io/protect-django-media-files-per-user-basis-with-nginx.html
