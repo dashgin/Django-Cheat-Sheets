@@ -1,1 +1,2 @@
 - [How to serve media files with nginx per user basis in Django](https://github.com/dashgin/How-to-Django/blob/main/serve_media_files_per_user_basis_with_nginx.md)
+- [How to refactor without breaking legacy ](https://github.com/dashgin/How-to-Django/blob/main/refactor-1.md)
